@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "viedoApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
